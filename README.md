@@ -49,6 +49,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/1511Darshan/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/1511Darshan/leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2288-count-operations-to-obtain-zero](https://github.com/1511Darshan/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/1511Darshan/leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/1511Darshan/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/1511Darshan/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/1511Darshan/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -166,6 +167,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [2308-divide-array-into-equal-pairs](https://github.com/1511Darshan/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/1511Darshan/leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/1511Darshan/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/1511Darshan/leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2402-meeting-rooms-iii](https://github.com/1511Darshan/leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/1511Darshan/leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2478-longest-nice-subarray](https://github.com/1511Darshan/leetcode/tree/master/2478-longest-nice-subarray) |
