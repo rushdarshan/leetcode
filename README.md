@@ -434,6 +434,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [1018-largest-perimeter-triangle](https://github.com/1511Darshan/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/1511Darshan/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1304-longest-happy-string](https://github.com/1511Darshan/leetcode/tree/master/1304-longest-happy-string) |
+| [1382-balance-a-binary-search-tree](https://github.com/1511Darshan/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/1511Darshan/leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/1511Darshan/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/1511Darshan/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -607,6 +608,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/1511Darshan/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/1511Darshan/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/1511Darshan/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/1511Darshan/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/1511Darshan/leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Depth-First Search
 |  |
@@ -616,6 +618,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/1511Darshan/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/1511Darshan/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/1511Darshan/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/1511Darshan/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/1511Darshan/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/1511Darshan/leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/1511Darshan/leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -639,6 +642,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/1511Darshan/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/1511Darshan/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/1511Darshan/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/1511Darshan/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Design
 |  |
 | ------- |
@@ -709,6 +713,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | ------- |
 | [0169-majority-element](https://github.com/1511Darshan/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/1511Darshan/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1382-balance-a-binary-search-tree](https://github.com/1511Darshan/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -736,4 +741,8 @@ I update this repo regularly as I solve new problems and revise older ones.
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/1511Darshan/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/1511Darshan/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/1511Darshan/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
