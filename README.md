@@ -276,6 +276,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/1511Darshan/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/1511Darshan/leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/1511Darshan/leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3714-longest-balanced-substring-ii](https://github.com/1511Darshan/leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3819-count-covered-buildings](https://github.com/1511Darshan/leetcode/tree/master/3819-count-covered-buildings) |
 | [3827-implement-router](https://github.com/1511Darshan/leetcode/tree/master/3827-implement-router) |
 | [3863-power-grid-maintenance](https://github.com/1511Darshan/leetcode/tree/master/3863-power-grid-maintenance) |
@@ -351,6 +352,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [3379-score-of-a-string](https://github.com/1511Darshan/leetcode/tree/master/3379-score-of-a-string) |
 | [3606-coupon-code-validator](https://github.com/1511Darshan/leetcode/tree/master/3606-coupon-code-validator) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/1511Darshan/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/1511Darshan/leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/1511Darshan/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Simulation
 |  |
@@ -591,6 +593,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [3432-count-partitions-with-even-sum-difference](https://github.com/1511Darshan/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/1511Darshan/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/1511Darshan/leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3714-longest-balanced-substring-ii](https://github.com/1511Darshan/leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/1511Darshan/leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Interactive
 |  |
