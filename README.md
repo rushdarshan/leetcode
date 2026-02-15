@@ -30,6 +30,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [0009-palindrome-number](https://github.com/1511Darshan/leetcode/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/1511Darshan/leetcode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/1511Darshan/leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/1511Darshan/leetcode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/1511Darshan/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/1511Darshan/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/1511Darshan/leetcode/tree/master/0268-missing-number) |
@@ -321,6 +322,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/1511Darshan/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0043-multiply-strings](https://github.com/1511Darshan/leetcode/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/1511Darshan/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/1511Darshan/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/1511Darshan/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/1511Darshan/leetcode/tree/master/0344-reverse-string) |
@@ -358,6 +360,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/1511Darshan/leetcode/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/1511Darshan/leetcode/tree/master/0067-add-binary) |
 | [1642-water-bottles](https://github.com/1511Darshan/leetcode/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/1511Darshan/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1929-concatenation-of-array](https://github.com/1511Darshan/leetcode/tree/master/1929-concatenation-of-array) |
@@ -391,6 +394,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/1511Darshan/leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/1511Darshan/leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/1511Darshan/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/1511Darshan/leetcode/tree/master/0268-missing-number) |
