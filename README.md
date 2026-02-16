@@ -396,6 +396,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | ------- |
 | [0067-add-binary](https://github.com/1511Darshan/leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/1511Darshan/leetcode/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/1511Darshan/leetcode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/1511Darshan/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/1511Darshan/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/1511Darshan/leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -719,6 +720,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/1511Darshan/leetcode/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/1511Darshan/leetcode/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/1511Darshan/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1382-balance-a-binary-search-tree](https://github.com/1511Darshan/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Bucket Sort
