@@ -298,6 +298,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [0455-assign-cookies](https://github.com/1511Darshan/leetcode/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/1511Darshan/leetcode/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/1511Darshan/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/1511Darshan/leetcode/tree/master/0696-count-binary-substrings) |
 | [0941-sort-array-by-parity](https://github.com/1511Darshan/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/1511Darshan/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1002-maximum-width-ramp](https://github.com/1511Darshan/leetcode/tree/master/1002-maximum-width-ramp) |
@@ -328,6 +329,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [0344-reverse-string](https://github.com/1511Darshan/leetcode/tree/master/0344-reverse-string) |
 | [0474-ones-and-zeroes](https://github.com/1511Darshan/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0680-valid-palindrome-ii](https://github.com/1511Darshan/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/1511Darshan/leetcode/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/1511Darshan/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/1511Darshan/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0812-rotate-string](https://github.com/1511Darshan/leetcode/tree/master/0812-rotate-string) |
