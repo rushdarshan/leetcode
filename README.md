@@ -332,6 +332,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [0696-count-binary-substrings](https://github.com/1511Darshan/leetcode/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/1511Darshan/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/1511Darshan/leetcode/tree/master/0756-pyramid-transition-matrix) |
+| [0761-special-binary-string](https://github.com/1511Darshan/leetcode/tree/master/0761-special-binary-string) |
 | [0812-rotate-string](https://github.com/1511Darshan/leetcode/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/1511Darshan/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0944-delete-columns-to-make-sorted](https://github.com/1511Darshan/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
@@ -520,6 +521,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [0611-valid-triangle-number](https://github.com/1511Darshan/leetcode/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/1511Darshan/leetcode/tree/master/0645-set-mismatch) |
 | [0759-set-intersection-size-at-least-two](https://github.com/1511Darshan/leetcode/tree/master/0759-set-intersection-size-at-least-two) |
+| [0761-special-binary-string](https://github.com/1511Darshan/leetcode/tree/master/0761-special-binary-string) |
 | [0900-reordered-power-of-2](https://github.com/1511Darshan/leetcode/tree/master/0900-reordered-power-of-2) |
 | [0941-sort-array-by-parity](https://github.com/1511Darshan/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/1511Darshan/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -724,6 +726,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [0169-majority-element](https://github.com/1511Darshan/leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/1511Darshan/leetcode/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/1511Darshan/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0761-special-binary-string](https://github.com/1511Darshan/leetcode/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/1511Darshan/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Bucket Sort
 |  |
