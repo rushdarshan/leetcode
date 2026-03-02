@@ -147,6 +147,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/1511Darshan/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/1511Darshan/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1470-shuffle-the-array](https://github.com/1511Darshan/leetcode/tree/master/1470-shuffle-the-array) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/1511Darshan/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/1511Darshan/leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/1511Darshan/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1590-make-sum-divisible-by-p](https://github.com/1511Darshan/leetcode/tree/master/1590-make-sum-divisible-by-p) |
@@ -458,6 +459,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [1304-longest-happy-string](https://github.com/1511Darshan/leetcode/tree/master/1304-longest-happy-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/1511Darshan/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/1511Darshan/leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/1511Darshan/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/1511Darshan/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/1511Darshan/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/1511Darshan/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -487,6 +489,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/1511Darshan/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/1511Darshan/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/1511Darshan/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/1511Darshan/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1895-largest-magic-square](https://github.com/1511Darshan/leetcode/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/1511Darshan/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/1511Darshan/leetcode/tree/master/1975-maximum-matrix-sum) |
