@@ -355,6 +355,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/1511Darshan/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/1511Darshan/leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1777-determine-if-two-strings-are-close](https://github.com/1511Darshan/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/1511Darshan/leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2128-reverse-prefix-of-word](https://github.com/1511Darshan/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/1511Darshan/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/1511Darshan/leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
