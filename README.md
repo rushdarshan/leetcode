@@ -162,6 +162,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [1970-last-day-where-you-can-still-cross](https://github.com/1511Darshan/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/1511Darshan/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/1511Darshan/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1980-find-unique-binary-string](https://github.com/1511Darshan/leetcode/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/1511Darshan/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2023-design-movie-rental-system](https://github.com/1511Darshan/leetcode/tree/master/2023-design-movie-rental-system) |
 | [2054-two-best-non-overlapping-events](https://github.com/1511Darshan/leetcode/tree/master/2054-two-best-non-overlapping-events) |
@@ -262,6 +263,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [1760-check-array-formation-through-concatenation](https://github.com/1511Darshan/leetcode/tree/master/1760-check-array-formation-through-concatenation) |
 | [1777-determine-if-two-strings-are-close](https://github.com/1511Darshan/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/1511Darshan/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1980-find-unique-binary-string](https://github.com/1511Darshan/leetcode/tree/master/1980-find-unique-binary-string) |
 | [2023-design-movie-rental-system](https://github.com/1511Darshan/leetcode/tree/master/2023-design-movie-rental-system) |
 | [2308-divide-array-into-equal-pairs](https://github.com/1511Darshan/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2402-meeting-rooms-iii](https://github.com/1511Darshan/leetcode/tree/master/2402-meeting-rooms-iii) |
@@ -357,6 +359,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [1777-determine-if-two-strings-are-close](https://github.com/1511Darshan/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/1511Darshan/leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/1511Darshan/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1980-find-unique-binary-string](https://github.com/1511Darshan/leetcode/tree/master/1980-find-unique-binary-string) |
 | [2128-reverse-prefix-of-word](https://github.com/1511Darshan/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/1511Darshan/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/1511Darshan/leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -406,6 +409,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | ------- |
 | [0037-sudoku-solver](https://github.com/1511Darshan/leetcode/tree/master/0037-sudoku-solver) |
 | [0756-pyramid-transition-matrix](https://github.com/1511Darshan/leetcode/tree/master/0756-pyramid-transition-matrix) |
+| [1980-find-unique-binary-string](https://github.com/1511Darshan/leetcode/tree/master/1980-find-unique-binary-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/1511Darshan/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
 |  |
