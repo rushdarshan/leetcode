@@ -143,6 +143,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [1293-three-consecutive-odds](https://github.com/1511Darshan/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/1511Darshan/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/1511Darshan/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1386-cinema-seat-allocation](https://github.com/1511Darshan/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1390-four-divisors](https://github.com/1511Darshan/leetcode/tree/master/1390-four-divisors) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/1511Darshan/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/1511Darshan/leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
@@ -259,6 +260,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/1511Darshan/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1249-snapshot-array](https://github.com/1511Darshan/leetcode/tree/master/1249-snapshot-array) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/1511Darshan/leetcode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [1386-cinema-seat-allocation](https://github.com/1511Darshan/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/1511Darshan/leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/1511Darshan/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/1511Darshan/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -429,6 +431,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/1511Darshan/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/1511Darshan/leetcode/tree/master/0868-binary-gap) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/1511Darshan/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1386-cinema-seat-allocation](https://github.com/1511Darshan/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/1511Darshan/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/1511Darshan/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/1511Darshan/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -470,6 +473,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [1262-greatest-sum-divisible-by-three](https://github.com/1511Darshan/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1304-longest-happy-string](https://github.com/1511Darshan/leetcode/tree/master/1304-longest-happy-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/1511Darshan/leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [1386-cinema-seat-allocation](https://github.com/1511Darshan/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/1511Darshan/leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/1511Darshan/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/1511Darshan/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
