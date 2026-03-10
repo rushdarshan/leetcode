@@ -102,6 +102,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/1511Darshan/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/1511Darshan/leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/1511Darshan/leetcode/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/1511Darshan/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/1511Darshan/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/1511Darshan/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/1511Darshan/leetcode/tree/master/0189-rotate-array) |
@@ -705,6 +706,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [0120-triangle](https://github.com/1511Darshan/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/1511Darshan/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/1511Darshan/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0152-maximum-product-subarray](https://github.com/1511Darshan/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0474-ones-and-zeroes](https://github.com/1511Darshan/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0509-fibonacci-number](https://github.com/1511Darshan/leetcode/tree/master/0509-fibonacci-number) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/1511Darshan/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
