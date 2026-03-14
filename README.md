@@ -358,6 +358,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [1197-parsing-a-boolean-expression](https://github.com/1511Darshan/leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1205-defanging-an-ip-address](https://github.com/1511Darshan/leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1304-longest-happy-string](https://github.com/1511Darshan/leetcode/tree/master/1304-longest-happy-string) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/1511Darshan/leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/1511Darshan/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/1511Darshan/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/1511Darshan/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -417,6 +418,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | ------- |
 | [0037-sudoku-solver](https://github.com/1511Darshan/leetcode/tree/master/0037-sudoku-solver) |
 | [0756-pyramid-transition-matrix](https://github.com/1511Darshan/leetcode/tree/master/0756-pyramid-transition-matrix) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/1511Darshan/leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/1511Darshan/leetcode/tree/master/1980-find-unique-binary-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/1511Darshan/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
