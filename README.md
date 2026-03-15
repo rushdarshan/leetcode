@@ -44,6 +44,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [1390-four-divisors](https://github.com/1511Darshan/leetcode/tree/master/1390-four-divisors) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/1511Darshan/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/1511Darshan/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1622-fancy-sequence](https://github.com/1511Darshan/leetcode/tree/master/1622-fancy-sequence) |
 | [1635-number-of-good-pairs](https://github.com/1511Darshan/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/1511Darshan/leetcode/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/1511Darshan/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -711,6 +712,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | ------- |
 | [0146-lru-cache](https://github.com/1511Darshan/leetcode/tree/master/0146-lru-cache) |
 | [1249-snapshot-array](https://github.com/1511Darshan/leetcode/tree/master/1249-snapshot-array) |
+| [1622-fancy-sequence](https://github.com/1511Darshan/leetcode/tree/master/1622-fancy-sequence) |
 | [2023-design-movie-rental-system](https://github.com/1511Darshan/leetcode/tree/master/2023-design-movie-rental-system) |
 | [3827-implement-router](https://github.com/1511Darshan/leetcode/tree/master/3827-implement-router) |
 ## Dynamic Programming
@@ -770,6 +772,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 ## Segment Tree
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/1511Darshan/leetcode/tree/master/1622-fancy-sequence) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/1511Darshan/leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Brainteaser
 |  |
