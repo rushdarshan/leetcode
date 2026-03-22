@@ -90,6 +90,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/1511Darshan/leetcode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/1511Darshan/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/1511Darshan/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/1511Darshan/leetcode/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/1511Darshan/leetcode/tree/master/0036-valid-sudoku) |
@@ -542,6 +543,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/1511Darshan/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/1511Darshan/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/1511Darshan/leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/1511Darshan/leetcode/tree/master/0278-first-bad-version) |
@@ -802,6 +804,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/1511Darshan/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/1511Darshan/leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/1511Darshan/leetcode/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/1511Darshan/leetcode/tree/master/0347-top-k-frequent-elements) |
