@@ -291,6 +291,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/1511Darshan/leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2755-extra-characters-in-a-string](https://github.com/1511Darshan/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/1511Darshan/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/1511Darshan/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/1511Darshan/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/1511Darshan/leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3227-find-missing-and-repeated-values](https://github.com/1511Darshan/leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -388,6 +389,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [2573-find-the-string-with-lcp](https://github.com/1511Darshan/leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2755-extra-characters-in-a-string](https://github.com/1511Darshan/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/1511Darshan/leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/1511Darshan/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3194-find-words-containing-character](https://github.com/1511Darshan/leetcode/tree/master/3194-find-words-containing-character) |
 | [3312-number-of-changing-keys](https://github.com/1511Darshan/leetcode/tree/master/3312-number-of-changing-keys) |
 | [3379-score-of-a-string](https://github.com/1511Darshan/leetcode/tree/master/3379-score-of-a-string) |
@@ -605,6 +607,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [2141-maximum-running-time-of-n-computers](https://github.com/1511Darshan/leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2402-meeting-rooms-iii](https://github.com/1511Darshan/leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2689-rearranging-fruits](https://github.com/1511Darshan/leetcode/tree/master/2689-rearranging-fruits) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/1511Darshan/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/1511Darshan/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/1511Darshan/leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/1511Darshan/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
