@@ -393,6 +393,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [3194-find-words-containing-character](https://github.com/1511Darshan/leetcode/tree/master/3194-find-words-containing-character) |
 | [3312-number-of-changing-keys](https://github.com/1511Darshan/leetcode/tree/master/3312-number-of-changing-keys) |
 | [3379-score-of-a-string](https://github.com/1511Darshan/leetcode/tree/master/3379-score-of-a-string) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/1511Darshan/leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3606-coupon-code-validator](https://github.com/1511Darshan/leetcode/tree/master/3606-coupon-code-validator) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/1511Darshan/leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/1511Darshan/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -507,6 +508,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [2689-rearranging-fruits](https://github.com/1511Darshan/leetcode/tree/master/2689-rearranging-fruits) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/1511Darshan/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/1511Darshan/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/1511Darshan/leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/1511Darshan/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Counting
 |  |
@@ -694,6 +696,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/1511Darshan/leetcode/tree/master/0812-rotate-string) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/1511Darshan/leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Tree
 |  |
 | ------- |
