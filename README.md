@@ -413,6 +413,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/1511Darshan/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/1511Darshan/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1929-concatenation-of-array](https://github.com/1511Darshan/leetcode/tree/master/1929-concatenation-of-array) |
+| [2069-walking-robot-simulation-ii](https://github.com/1511Darshan/leetcode/tree/master/2069-walking-robot-simulation-ii) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/1511Darshan/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2211-count-collisions-on-a-road](https://github.com/1511Darshan/leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/1511Darshan/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -756,6 +757,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [1249-snapshot-array](https://github.com/1511Darshan/leetcode/tree/master/1249-snapshot-array) |
 | [1622-fancy-sequence](https://github.com/1511Darshan/leetcode/tree/master/1622-fancy-sequence) |
 | [2023-design-movie-rental-system](https://github.com/1511Darshan/leetcode/tree/master/2023-design-movie-rental-system) |
+| [2069-walking-robot-simulation-ii](https://github.com/1511Darshan/leetcode/tree/master/2069-walking-robot-simulation-ii) |
 | [3827-implement-router](https://github.com/1511Darshan/leetcode/tree/master/3827-implement-router) |
 ## Dynamic Programming
 |  |
