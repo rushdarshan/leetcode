@@ -242,6 +242,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/1511Darshan/leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/1511Darshan/leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/1511Darshan/leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/1511Darshan/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/1511Darshan/leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3819-count-covered-buildings](https://github.com/1511Darshan/leetcode/tree/master/3819-count-covered-buildings) |
 | [3827-implement-router](https://github.com/1511Darshan/leetcode/tree/master/3827-implement-router) |
@@ -428,6 +429,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [3433-count-mentions-per-user](https://github.com/1511Darshan/leetcode/tree/master/3433-count-mentions-per-user) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/1511Darshan/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/1511Darshan/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/1511Darshan/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/1511Darshan/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Combinatorics
 |  |
@@ -833,6 +835,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [0347-top-k-frequent-elements](https://github.com/1511Darshan/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0761-special-binary-string](https://github.com/1511Darshan/leetcode/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/1511Darshan/leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/1511Darshan/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Bucket Sort
 |  |
 | ------- |
