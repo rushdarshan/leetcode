@@ -193,6 +193,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [2348-number-of-zero-filled-subarrays](https://github.com/1511Darshan/leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2402-meeting-rooms-iii](https://github.com/1511Darshan/leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/1511Darshan/leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/1511Darshan/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2460-apply-operations-to-an-array](https://github.com/1511Darshan/leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2478-longest-nice-subarray](https://github.com/1511Darshan/leetcode/tree/master/2478-longest-nice-subarray) |
 | [2483-task-scheduler-ii](https://github.com/1511Darshan/leetcode/tree/master/2483-task-scheduler-ii) |
@@ -395,6 +396,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/1511Darshan/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/1511Darshan/leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/1511Darshan/leetcode/tree/master/2211-count-collisions-on-a-road) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/1511Darshan/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/1511Darshan/leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/1511Darshan/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/1511Darshan/leetcode/tree/master/2573-find-the-string-with-lcp) |
@@ -805,6 +807,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 ## Trie
 |  |
 | ------- |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/1511Darshan/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2755-extra-characters-in-a-string](https://github.com/1511Darshan/leetcode/tree/master/2755-extra-characters-in-a-string) |
 ## Graph
 |  |
