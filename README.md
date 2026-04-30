@@ -255,6 +255,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/1511Darshan/leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/1511Darshan/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/1511Darshan/leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/1511Darshan/leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/1511Darshan/leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3819-count-covered-buildings](https://github.com/1511Darshan/leetcode/tree/master/3819-count-covered-buildings) |
 | [3827-implement-router](https://github.com/1511Darshan/leetcode/tree/master/3827-implement-router) |
@@ -581,6 +582,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/1511Darshan/leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/1511Darshan/leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/1511Darshan/leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/1511Darshan/leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Binary Search
 |  |
 | ------- |
@@ -822,6 +824,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [3225-maximum-score-from-grid-operations](https://github.com/1511Darshan/leetcode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/1511Darshan/leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/1511Darshan/leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/1511Darshan/leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Trie
 |  |
 | ------- |
