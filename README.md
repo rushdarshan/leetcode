@@ -35,6 +35,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [0189-rotate-array](https://github.com/1511Darshan/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/1511Darshan/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/1511Darshan/leetcode/tree/master/0268-missing-number) |
+| [0396-rotate-function](https://github.com/1511Darshan/leetcode/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/1511Darshan/leetcode/tree/master/0509-fibonacci-number) |
 | [0670-maximum-swap](https://github.com/1511Darshan/leetcode/tree/master/0670-maximum-swap) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/1511Darshan/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -122,6 +123,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [0334-increasing-triplet-subsequence](https://github.com/1511Darshan/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/1511Darshan/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/1511Darshan/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0396-rotate-function](https://github.com/1511Darshan/leetcode/tree/master/0396-rotate-function) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/1511Darshan/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/1511Darshan/leetcode/tree/master/0455-assign-cookies) |
 | [0474-ones-and-zeroes](https://github.com/1511Darshan/leetcode/tree/master/0474-ones-and-zeroes) |
@@ -798,6 +800,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/1511Darshan/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/1511Darshan/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/1511Darshan/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0396-rotate-function](https://github.com/1511Darshan/leetcode/tree/master/0396-rotate-function) |
 | [0474-ones-and-zeroes](https://github.com/1511Darshan/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0509-fibonacci-number](https://github.com/1511Darshan/leetcode/tree/master/0509-fibonacci-number) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/1511Darshan/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
