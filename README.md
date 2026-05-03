@@ -381,6 +381,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/1511Darshan/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/1511Darshan/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0761-special-binary-string](https://github.com/1511Darshan/leetcode/tree/master/0761-special-binary-string) |
+| [0796-rotate-string](https://github.com/1511Darshan/leetcode/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/1511Darshan/leetcode/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/1511Darshan/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0944-delete-columns-to-make-sorted](https://github.com/1511Darshan/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
@@ -733,6 +734,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 ## String Matching
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/1511Darshan/leetcode/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/1511Darshan/leetcode/tree/master/0812-rotate-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/1511Darshan/leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Tree
