@@ -30,6 +30,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [0007-reverse-integer](https://github.com/1511Darshan/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/1511Darshan/leetcode/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/1511Darshan/leetcode/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/1511Darshan/leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/1511Darshan/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/1511Darshan/leetcode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/1511Darshan/leetcode/tree/master/0189-rotate-array) |
@@ -101,6 +102,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [0036-valid-sudoku](https://github.com/1511Darshan/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/1511Darshan/leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/1511Darshan/leetcode/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/1511Darshan/leetcode/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/1511Darshan/leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/1511Darshan/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/1511Darshan/leetcode/tree/master/0075-sort-colors) |
@@ -558,6 +560,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | ------- |
 | [0036-valid-sudoku](https://github.com/1511Darshan/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/1511Darshan/leetcode/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/1511Darshan/leetcode/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/1511Darshan/leetcode/tree/master/0085-maximal-rectangle) |
 | [0840-magic-squares-in-grid](https://github.com/1511Darshan/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/1511Darshan/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
