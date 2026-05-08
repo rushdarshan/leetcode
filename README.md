@@ -80,6 +80,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/1511Darshan/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3623-count-number-of-trapezoids-i](https://github.com/1511Darshan/leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/1511Darshan/leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/1511Darshan/leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/1511Darshan/leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/1511Darshan/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/1511Darshan/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -254,6 +255,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/1511Darshan/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/1511Darshan/leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/1511Darshan/leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/1511Darshan/leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3637-trionic-array-i](https://github.com/1511Darshan/leetcode/tree/master/3637-trionic-array-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/1511Darshan/leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/1511Darshan/leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -326,6 +328,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/1511Darshan/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/1511Darshan/leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/1511Darshan/leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/1511Darshan/leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3714-longest-balanced-substring-ii](https://github.com/1511Darshan/leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/1511Darshan/leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3819-count-covered-buildings](https://github.com/1511Darshan/leetcode/tree/master/3819-count-covered-buildings) |
@@ -367,6 +370,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [1979-find-greatest-common-divisor-of-array](https://github.com/1511Darshan/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2610-closest-prime-numbers-in-range](https://github.com/1511Darshan/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/1511Darshan/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/1511Darshan/leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/1511Darshan/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## String
 |  |
@@ -778,6 +782,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [1559-detect-cycles-in-2d-grid](https://github.com/1511Darshan/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/1511Darshan/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/1511Darshan/leetcode/tree/master/2092-find-all-people-with-secret) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/1511Darshan/leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/1511Darshan/leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3863-power-grid-maintenance](https://github.com/1511Darshan/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
