@@ -211,6 +211,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/1511Darshan/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/1511Darshan/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2529-range-product-queries-of-powers](https://github.com/1511Darshan/leetcode/tree/master/2529-range-product-queries-of-powers) |
+| [2553-separate-the-digits-in-an-array](https://github.com/1511Darshan/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2573-find-the-string-with-lcp](https://github.com/1511Darshan/leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/1511Darshan/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2625-increment-submatrices-by-one](https://github.com/1511Darshan/leetcode/tree/master/2625-increment-submatrices-by-one) |
@@ -454,6 +455,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [2408-number-of-people-aware-of-a-secret](https://github.com/1511Darshan/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2460-apply-operations-to-an-array](https://github.com/1511Darshan/leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2483-task-scheduler-ii](https://github.com/1511Darshan/leetcode/tree/master/2483-task-scheduler-ii) |
+| [2553-separate-the-digits-in-an-array](https://github.com/1511Darshan/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3336-water-bottles-ii](https://github.com/1511Darshan/leetcode/tree/master/3336-water-bottles-ii) |
 | [3433-count-mentions-per-user](https://github.com/1511Darshan/leetcode/tree/master/3433-count-mentions-per-user) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/1511Darshan/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
