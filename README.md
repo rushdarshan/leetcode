@@ -220,6 +220,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [2573-find-the-string-with-lcp](https://github.com/1511Darshan/leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/1511Darshan/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2625-increment-submatrices-by-one](https://github.com/1511Darshan/leetcode/tree/master/2625-increment-submatrices-by-one) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/1511Darshan/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2689-rearranging-fruits](https://github.com/1511Darshan/leetcode/tree/master/2689-rearranging-fruits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/1511Darshan/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/1511Darshan/leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
@@ -319,6 +320,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [2308-divide-array-into-equal-pairs](https://github.com/1511Darshan/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2402-meeting-rooms-iii](https://github.com/1511Darshan/leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2483-task-scheduler-ii](https://github.com/1511Darshan/leetcode/tree/master/2483-task-scheduler-ii) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/1511Darshan/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2689-rearranging-fruits](https://github.com/1511Darshan/leetcode/tree/master/2689-rearranging-fruits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/1511Darshan/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/1511Darshan/leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
@@ -507,6 +509,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/1511Darshan/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/1511Darshan/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/1511Darshan/leetcode/tree/master/2529-range-product-queries-of-powers) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/1511Darshan/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/1511Darshan/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/1511Darshan/leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/1511Darshan/leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
