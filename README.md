@@ -234,6 +234,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/1511Darshan/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/1511Darshan/leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/1511Darshan/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3093-longest-common-suffix-queries](https://github.com/1511Darshan/leetcode/tree/master/3093-longest-common-suffix-queries) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/1511Darshan/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-find-words-containing-character](https://github.com/1511Darshan/leetcode/tree/master/3194-find-words-containing-character) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/1511Darshan/leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -434,6 +435,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [2833-furthest-point-from-origin](https://github.com/1511Darshan/leetcode/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/1511Darshan/leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/1511Darshan/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3093-longest-common-suffix-queries](https://github.com/1511Darshan/leetcode/tree/master/3093-longest-common-suffix-queries) |
 | [3194-find-words-containing-character](https://github.com/1511Darshan/leetcode/tree/master/3194-find-words-containing-character) |
 | [3312-number-of-changing-keys](https://github.com/1511Darshan/leetcode/tree/master/3312-number-of-changing-keys) |
 | [3379-score-of-a-string](https://github.com/1511Darshan/leetcode/tree/master/3379-score-of-a-string) |
@@ -870,6 +872,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/1511Darshan/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2755-extra-characters-in-a-string](https://github.com/1511Darshan/leetcode/tree/master/2755-extra-characters-in-a-string) |
+| [3093-longest-common-suffix-queries](https://github.com/1511Darshan/leetcode/tree/master/3093-longest-common-suffix-queries) |
 ## Graph
 |  |
 | ------- |
