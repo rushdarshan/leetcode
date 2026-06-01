@@ -201,6 +201,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [2126-destroying-asteroids](https://github.com/1511Darshan/leetcode/tree/master/2126-destroying-asteroids) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/1511Darshan/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/1511Darshan/leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/1511Darshan/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/1511Darshan/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/1511Darshan/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/1511Darshan/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -559,6 +560,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [2078-two-furthest-houses-with-different-colors](https://github.com/1511Darshan/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/1511Darshan/leetcode/tree/master/2126-destroying-asteroids) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/1511Darshan/leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/1511Darshan/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2573-find-the-string-with-lcp](https://github.com/1511Darshan/leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2689-rearranging-fruits](https://github.com/1511Darshan/leetcode/tree/master/2689-rearranging-fruits) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/1511Darshan/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -674,6 +676,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [2092-find-all-people-with-secret](https://github.com/1511Darshan/leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2126-destroying-asteroids](https://github.com/1511Darshan/leetcode/tree/master/2126-destroying-asteroids) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/1511Darshan/leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/1511Darshan/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2402-meeting-rooms-iii](https://github.com/1511Darshan/leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2689-rearranging-fruits](https://github.com/1511Darshan/leetcode/tree/master/2689-rearranging-fruits) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/1511Darshan/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
