@@ -277,6 +277,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/1511Darshan/leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/1511Darshan/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3660-jump-game-ix](https://github.com/1511Darshan/leetcode/tree/master/3660-jump-game-ix) |
+| [3689-maximum-total-subarray-value-i](https://github.com/1511Darshan/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/1511Darshan/leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/1511Darshan/leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/1511Darshan/leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
@@ -574,6 +575,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [3474-lexicographically-smallest-generated-string](https://github.com/1511Darshan/leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/1511Darshan/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/1511Darshan/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3689-maximum-total-subarray-value-i](https://github.com/1511Darshan/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 ## Counting
 |  |
 | ------- |
