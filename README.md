@@ -76,6 +76,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/1511Darshan/leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/1511Darshan/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/1511Darshan/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/1511Darshan/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/1511Darshan/leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/1511Darshan/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3623-count-number-of-trapezoids-i](https://github.com/1511Darshan/leetcode/tree/master/3623-count-number-of-trapezoids-i) |
@@ -261,6 +262,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/1511Darshan/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/1511Darshan/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3546-equal-sum-grid-partition-i](https://github.com/1511Darshan/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/1511Darshan/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/1511Darshan/leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/1511Darshan/leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/1511Darshan/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -526,6 +528,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/1511Darshan/leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/1511Darshan/leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/1511Darshan/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/1511Darshan/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/1511Darshan/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Enumeration
 |  |
@@ -794,6 +797,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/1511Darshan/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/1511Darshan/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/1511Darshan/leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/1511Darshan/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -809,6 +813,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [1970-last-day-where-you-can-still-cross](https://github.com/1511Darshan/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/1511Darshan/leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/1511Darshan/leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/1511Darshan/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3863-power-grid-maintenance](https://github.com/1511Darshan/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
@@ -881,6 +886,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/1511Darshan/leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/1511Darshan/leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3225-maximum-score-from-grid-operations](https://github.com/1511Darshan/leetcode/tree/master/3225-maximum-score-from-grid-operations) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/1511Darshan/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/1511Darshan/leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/1511Darshan/leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3660-jump-game-ix](https://github.com/1511Darshan/leetcode/tree/master/3660-jump-game-ix) |
