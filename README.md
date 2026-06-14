@@ -19,6 +19,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [0002-add-two-numbers](https://github.com/1511Darshan/leetcode/tree/master/0002-add-two-numbers) |
 | [0146-lru-cache](https://github.com/1511Darshan/leetcode/tree/master/0146-lru-cache) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/1511Darshan/leetcode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/1511Darshan/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/1511Darshan/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/1511Darshan/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/1511Darshan/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -380,6 +381,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [1168-duplicate-zeros](https://github.com/1511Darshan/leetcode/tree/master/1168-duplicate-zeros) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/1511Darshan/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2128-reverse-prefix-of-word](https://github.com/1511Darshan/leetcode/tree/master/2128-reverse-prefix-of-word) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/1511Darshan/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/1511Darshan/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/1511Darshan/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/1511Darshan/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -714,6 +716,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/1511Darshan/leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/1511Darshan/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2128-reverse-prefix-of-word](https://github.com/1511Darshan/leetcode/tree/master/2128-reverse-prefix-of-word) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/1511Darshan/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2211-count-collisions-on-a-road](https://github.com/1511Darshan/leetcode/tree/master/2211-count-collisions-on-a-road) |
 ## Monotonic Stack
 |  |
