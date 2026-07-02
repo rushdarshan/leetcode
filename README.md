@@ -247,6 +247,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/1511Darshan/leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/1511Darshan/leetcode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3227-find-missing-and-repeated-values](https://github.com/1511Darshan/leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/1511Darshan/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/1511Darshan/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/1511Darshan/leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/1511Darshan/leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -624,6 +625,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/1511Darshan/leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/1511Darshan/leetcode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3227-find-missing-and-repeated-values](https://github.com/1511Darshan/leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/1511Darshan/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/1511Darshan/leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/1511Darshan/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/1511Darshan/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
@@ -749,6 +751,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [2054-two-best-non-overlapping-events](https://github.com/1511Darshan/leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/1511Darshan/leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/1511Darshan/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/1511Darshan/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/1511Darshan/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/1511Darshan/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/1511Darshan/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -836,6 +839,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [1970-last-day-where-you-can-still-cross](https://github.com/1511Darshan/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/1511Darshan/leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/1511Darshan/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/1511Darshan/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/1511Darshan/leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/1511Darshan/leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3863-power-grid-maintenance](https://github.com/1511Darshan/leetcode/tree/master/3863-power-grid-maintenance) |
@@ -996,9 +1000,14 @@ I update this repo regularly as I solve new problems and revise older ones.
 ## Graph Theory
 |  |
 | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/1511Darshan/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/1511Darshan/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/1511Darshan/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/1511Darshan/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
