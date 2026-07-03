@@ -272,6 +272,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [3583-count-special-triplets](https://github.com/1511Darshan/leetcode/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/1511Darshan/leetcode/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/1511Darshan/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3620-network-recovery-pathways](https://github.com/1511Darshan/leetcode/tree/master/3620-network-recovery-pathways) |
 | [3623-count-number-of-trapezoids-i](https://github.com/1511Darshan/leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/1511Darshan/leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/1511Darshan/leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -660,6 +661,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/1511Darshan/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/1511Darshan/leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/1511Darshan/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3620-network-recovery-pathways](https://github.com/1511Darshan/leetcode/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/1511Darshan/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3827-implement-router](https://github.com/1511Darshan/leetcode/tree/master/3827-implement-router) |
 ## Sorting
@@ -756,6 +758,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/1511Darshan/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/1511Darshan/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/1511Darshan/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3620-network-recovery-pathways](https://github.com/1511Darshan/leetcode/tree/master/3620-network-recovery-pathways) |
 | [3863-power-grid-maintenance](https://github.com/1511Darshan/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Queue
 |  |
@@ -899,6 +902,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/1511Darshan/leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3225-maximum-score-from-grid-operations](https://github.com/1511Darshan/leetcode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/1511Darshan/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3620-network-recovery-pathways](https://github.com/1511Darshan/leetcode/tree/master/3620-network-recovery-pathways) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/1511Darshan/leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/1511Darshan/leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3660-jump-game-ix](https://github.com/1511Darshan/leetcode/tree/master/3660-jump-game-ix) |
@@ -1002,6 +1006,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/1511Darshan/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/1511Darshan/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3620-network-recovery-pathways](https://github.com/1511Darshan/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
@@ -1010,4 +1015,9 @@ I update this repo regularly as I solve new problems and revise older ones.
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/1511Darshan/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/1511Darshan/leetcode/tree/master/3620-network-recovery-pathways) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/1511Darshan/leetcode/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
