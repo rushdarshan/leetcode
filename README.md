@@ -159,6 +159,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [1262-greatest-sum-divisible-by-three](https://github.com/1511Darshan/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/1511Darshan/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1293-three-consecutive-odds](https://github.com/1511Darshan/leetcode/tree/master/1293-three-consecutive-odds) |
+| [1301-number-of-paths-with-max-score](https://github.com/1511Darshan/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/1511Darshan/leetcode/tree/master/1306-jump-game-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/1511Darshan/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1340-jump-game-v](https://github.com/1511Darshan/leetcode/tree/master/1340-jump-game-v) |
@@ -606,6 +607,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [0085-maximal-rectangle](https://github.com/1511Darshan/leetcode/tree/master/0085-maximal-rectangle) |
 | [0840-magic-squares-in-grid](https://github.com/1511Darshan/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/1511Darshan/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1301-number-of-paths-with-max-score](https://github.com/1511Darshan/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/1511Darshan/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/1511Darshan/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/1511Darshan/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -883,6 +885,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [0934-bitwise-ors-of-subarrays](https://github.com/1511Darshan/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/1511Darshan/leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/1511Darshan/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1301-number-of-paths-with-max-score](https://github.com/1511Darshan/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/1511Darshan/leetcode/tree/master/1340-jump-game-v) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/1511Darshan/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/1511Darshan/leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
