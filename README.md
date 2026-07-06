@@ -157,6 +157,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [1168-duplicate-zeros](https://github.com/1511Darshan/leetcode/tree/master/1168-duplicate-zeros) |
 | [1249-snapshot-array](https://github.com/1511Darshan/leetcode/tree/master/1249-snapshot-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/1511Darshan/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1288-remove-covered-intervals](https://github.com/1511Darshan/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/1511Darshan/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1293-three-consecutive-odds](https://github.com/1511Darshan/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1301-number-of-paths-with-max-score](https://github.com/1511Darshan/leetcode/tree/master/1301-number-of-paths-with-max-score) |
@@ -689,6 +690,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [1018-largest-perimeter-triangle](https://github.com/1511Darshan/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/1511Darshan/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/1511Darshan/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1288-remove-covered-intervals](https://github.com/1511Darshan/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1340-jump-game-v](https://github.com/1511Darshan/leetcode/tree/master/1340-jump-game-v) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/1511Darshan/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1777-determine-if-two-strings-are-close](https://github.com/1511Darshan/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
