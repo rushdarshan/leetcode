@@ -85,6 +85,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/1511Darshan/leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/1511Darshan/leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/1511Darshan/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/1511Darshan/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/1511Darshan/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/1511Darshan/leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Recursion
@@ -461,6 +462,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/1511Darshan/leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/1511Darshan/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/1511Darshan/leetcode/tree/master/3714-longest-balanced-substring-ii) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/1511Darshan/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/1511Darshan/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Simulation
 |  |
@@ -792,6 +794,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [3546-equal-sum-grid-partition-i](https://github.com/1511Darshan/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/1511Darshan/leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3714-longest-balanced-substring-ii](https://github.com/1511Darshan/leetcode/tree/master/3714-longest-balanced-substring-ii) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/1511Darshan/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/1511Darshan/leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Interactive
 |  |
