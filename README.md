@@ -163,6 +163,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [1293-three-consecutive-odds](https://github.com/1511Darshan/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1301-number-of-paths-with-max-score](https://github.com/1511Darshan/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/1511Darshan/leetcode/tree/master/1306-jump-game-iii) |
+| [1331-rank-transform-of-an-array](https://github.com/1511Darshan/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/1511Darshan/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1340-jump-game-v](https://github.com/1511Darshan/leetcode/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/1511Darshan/leetcode/tree/master/1345-jump-game-iv) |
@@ -322,6 +323,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/1511Darshan/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1249-snapshot-array](https://github.com/1511Darshan/leetcode/tree/master/1249-snapshot-array) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/1511Darshan/leetcode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [1331-rank-transform-of-an-array](https://github.com/1511Darshan/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/1511Darshan/leetcode/tree/master/1345-jump-game-iv) |
 | [1386-cinema-seat-allocation](https://github.com/1511Darshan/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/1511Darshan/leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
@@ -698,6 +700,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [1019-squares-of-a-sorted-array](https://github.com/1511Darshan/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/1511Darshan/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1288-remove-covered-intervals](https://github.com/1511Darshan/leetcode/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/1511Darshan/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/1511Darshan/leetcode/tree/master/1340-jump-game-v) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/1511Darshan/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1777-determine-if-two-strings-are-close](https://github.com/1511Darshan/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
