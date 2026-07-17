@@ -107,6 +107,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [0037-sudoku-solver](https://github.com/1511Darshan/leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/1511Darshan/leetcode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/1511Darshan/leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/1511Darshan/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/1511Darshan/leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/1511Darshan/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/1511Darshan/leetcode/tree/master/0075-sort-colors) |
@@ -303,6 +304,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [0036-valid-sudoku](https://github.com/1511Darshan/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/1511Darshan/leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/1511Darshan/leetcode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/1511Darshan/leetcode/tree/master/0049-group-anagrams) |
 | [0146-lru-cache](https://github.com/1511Darshan/leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/1511Darshan/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/1511Darshan/leetcode/tree/master/0217-contains-duplicate) |
@@ -413,6 +415,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/1511Darshan/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0043-multiply-strings](https://github.com/1511Darshan/leetcode/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/1511Darshan/leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/1511Darshan/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/1511Darshan/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/1511Darshan/leetcode/tree/master/0242-valid-anagram) |
@@ -681,6 +684,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/1511Darshan/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/1511Darshan/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/1511Darshan/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/1511Darshan/leetcode/tree/master/0088-merge-sorted-array) |
