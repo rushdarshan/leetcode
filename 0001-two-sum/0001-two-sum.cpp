@@ -1,17 +1,13 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        //sorted array to store nums array
-        unordered_map<int, int> hashmap;
-        //finding complement in the array of elemets
-        for(int i = 0; i<nums.size(); ++i){
-            int complement = target - nums[i];
-
-            if(hashmap.find(complement) != hashmap.end()){
-                return {hashmap[complement],i};
+        int n = nums.size();
+        for(int i = 0; i < n - 1; i++){
+            for(int j = i + 1; j < n; j++){
+                if(nums[i] + nums[j] == target){
+                    return {i,j};
+                }
             }
-            hashmap[nums[i]] = i;
-
         }
         return {};
     }
