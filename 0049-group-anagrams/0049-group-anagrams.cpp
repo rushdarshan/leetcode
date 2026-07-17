@@ -9,7 +9,7 @@ public:
         }
         vector<vector<string>> result;
         for( auto &pair : groups){
-            result.push_back(pair.second);
+            result.push_back(move(pair.second));
         }
         return result;
     }
