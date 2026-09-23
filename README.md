@@ -826,6 +826,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/1511Darshan/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/1511Darshan/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/1511Darshan/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/1511Darshan/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -838,6 +839,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/1511Darshan/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/1511Darshan/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0733-flood-fill](https://github.com/1511Darshan/leetcode/tree/master/0733-flood-fill) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/1511Darshan/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -857,6 +859,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/1511Darshan/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0733-flood-fill](https://github.com/1511Darshan/leetcode/tree/master/0733-flood-fill) |
 | [0833-bus-routes](https://github.com/1511Darshan/leetcode/tree/master/0833-bus-routes) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/1511Darshan/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -877,6 +880,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/1511Darshan/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/1511Darshan/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/1511Darshan/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/1511Darshan/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
