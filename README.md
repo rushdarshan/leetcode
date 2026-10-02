@@ -416,6 +416,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/1511Darshan/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/1511Darshan/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/1511Darshan/leetcode/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/1511Darshan/leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/1511Darshan/leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/1511Darshan/leetcode/tree/master/0067-add-binary) |
@@ -513,6 +514,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/1511Darshan/leetcode/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/1511Darshan/leetcode/tree/master/0037-sudoku-solver) |
 | [0756-pyramid-transition-matrix](https://github.com/1511Darshan/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/1511Darshan/leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -906,6 +908,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/1511Darshan/leetcode/tree/master/0022-generate-parentheses) |
 | [0085-maximal-rectangle](https://github.com/1511Darshan/leetcode/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/1511Darshan/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/1511Darshan/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -1067,4 +1070,5 @@ I update this repo regularly as I solve new problems and revise older ones.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/1511Darshan/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/1511Darshan/leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
