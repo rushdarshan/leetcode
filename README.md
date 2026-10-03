@@ -417,6 +417,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [0008-string-to-integer-atoi](https://github.com/1511Darshan/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/1511Darshan/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/1511Darshan/leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/1511Darshan/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/1511Darshan/leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/1511Darshan/leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/1511Darshan/leetcode/tree/master/0067-add-binary) |
@@ -744,6 +745,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/1511Darshan/leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/1511Darshan/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/1511Darshan/leetcode/tree/master/0085-maximal-rectangle) |
 | [1002-maximum-width-ramp](https://github.com/1511Darshan/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1197-parsing-a-boolean-expression](https://github.com/1511Darshan/leetcode/tree/master/1197-parsing-a-boolean-expression) |
@@ -909,6 +911,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/1511Darshan/leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/1511Darshan/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/1511Darshan/leetcode/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/1511Darshan/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/1511Darshan/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -1071,4 +1074,5 @@ I update this repo regularly as I solve new problems and revise older ones.
 | ------- |
 | [0020-valid-parentheses](https://github.com/1511Darshan/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/1511Darshan/leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/1511Darshan/leetcode/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
