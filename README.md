@@ -426,6 +426,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [0344-reverse-string](https://github.com/1511Darshan/leetcode/tree/master/0344-reverse-string) |
 | [0474-ones-and-zeroes](https://github.com/1511Darshan/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0657-robot-return-to-origin](https://github.com/1511Darshan/leetcode/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/1511Darshan/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/1511Darshan/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/1511Darshan/leetcode/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/1511Darshan/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -575,6 +576,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [0455-assign-cookies](https://github.com/1511Darshan/leetcode/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/1511Darshan/leetcode/tree/master/0611-valid-triangle-number) |
 | [0670-maximum-swap](https://github.com/1511Darshan/leetcode/tree/master/0670-maximum-swap) |
+| [0678-valid-parenthesis-string](https://github.com/1511Darshan/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/1511Darshan/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0759-set-intersection-size-at-least-two](https://github.com/1511Darshan/leetcode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/1511Darshan/leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -747,6 +749,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [0020-valid-parentheses](https://github.com/1511Darshan/leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/1511Darshan/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/1511Darshan/leetcode/tree/master/0085-maximal-rectangle) |
+| [0678-valid-parenthesis-string](https://github.com/1511Darshan/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1002-maximum-width-ramp](https://github.com/1511Darshan/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1197-parsing-a-boolean-expression](https://github.com/1511Darshan/leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/1511Darshan/leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -920,6 +923,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [0396-rotate-function](https://github.com/1511Darshan/leetcode/tree/master/0396-rotate-function) |
 | [0474-ones-and-zeroes](https://github.com/1511Darshan/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0509-fibonacci-number](https://github.com/1511Darshan/leetcode/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/1511Darshan/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/1511Darshan/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0788-rotated-digits](https://github.com/1511Darshan/leetcode/tree/master/0788-rotated-digits) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/1511Darshan/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -1075,4 +1079,5 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [0020-valid-parentheses](https://github.com/1511Darshan/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/1511Darshan/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/1511Darshan/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/1511Darshan/leetcode/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
