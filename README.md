@@ -135,6 +135,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [0347-top-k-frequent-elements](https://github.com/1511Darshan/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/1511Darshan/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0396-rotate-function](https://github.com/1511Darshan/leetcode/tree/master/0396-rotate-function) |
+| [0414-third-maximum-number](https://github.com/1511Darshan/leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/1511Darshan/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/1511Darshan/leetcode/tree/master/0455-assign-cookies) |
 | [0474-ones-and-zeroes](https://github.com/1511Darshan/leetcode/tree/master/0474-ones-and-zeroes) |
@@ -703,6 +704,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [0268-missing-number](https://github.com/1511Darshan/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/1511Darshan/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/1511Darshan/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/1511Darshan/leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/1511Darshan/leetcode/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/1511Darshan/leetcode/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/1511Darshan/leetcode/tree/master/0645-set-mismatch) |
