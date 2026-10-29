@@ -1,19 +1,17 @@
 class Solution {
 public:
     int thirdMax(vector<int>& nums) {
-        int maxcount = 0;
-        vector<int> a;
-        for(int i = 0; i<nums.size(); ++i){
-            if(find(a.begin(),a.end(),nums[i]) == a.end()){
-                a.push_back(nums[i]);
+        int cnt = 1;
+        sort(nums.begin(), nums.end());
+        for(int i = nums.size()-2; i >= 0; --i){
+            if(nums[i] == nums[i+1]){
+                continue;
+            }
+            cnt++;
+            if(cnt == 3){
+                return nums[i];
             }
         }
-        sort(a.begin(), a.end(), greater<int>());
-        if(a.size() < 3){
-            maxcount = *max_element(a.begin(),a.end());
-            return maxcount;
-        }
-        return a[2];
-
+        return nums[nums.size()-1];
     }
 };
