@@ -1083,4 +1083,8 @@ I update this repo regularly as I solve new problems and revise older ones.
 | [0022-generate-parentheses](https://github.com/1511Darshan/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/1511Darshan/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/1511Darshan/leetcode/tree/master/0678-valid-parenthesis-string) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/1511Darshan/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
