@@ -379,6 +379,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/1511Darshan/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/1511Darshan/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/1511Darshan/leetcode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/1511Darshan/leetcode/tree/master/0075-sort-colors) |
@@ -422,6 +423,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/1511Darshan/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/1511Darshan/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/1511Darshan/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/1511Darshan/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/1511Darshan/leetcode/tree/master/0022-generate-parentheses) |
@@ -924,6 +926,7 @@ I update this repo regularly as I solve new problems and revise older ones.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/1511Darshan/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/1511Darshan/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/1511Darshan/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/1511Darshan/leetcode/tree/master/0085-maximal-rectangle) |
@@ -1095,4 +1098,8 @@ I update this repo regularly as I solve new problems and revise older ones.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/1511Darshan/leetcode/tree/master/0169-majority-element) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/1511Darshan/leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
